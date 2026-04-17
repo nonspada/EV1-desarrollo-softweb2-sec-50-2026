@@ -1,0 +1,16 @@
+{
+  "name": "EV1-desarrollo-softweb2-sec-50-2026",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hono/node-server": "^1.19.14",
+    "hono": "^4.12.14"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.1",
+    "typescript": "^6.0.3"
+  }
+}
