@@ -39,7 +39,7 @@ app.get("/transactions/:id", (c) => {
     }
 });
 
-// // POST
+// POST
 app.post("/transactions", async (c) => {
     const { description, amount, type } = await c.req.json();
     const newTransaction: Transaction = {
@@ -53,7 +53,7 @@ app.post("/transactions", async (c) => {
 });
 
 
-// // PUT
+// PUT
 app.put("/transactions/:id", async (c) => {
     const id = parseInt(c.req.param("id"));
     const body = await c.req.json();
