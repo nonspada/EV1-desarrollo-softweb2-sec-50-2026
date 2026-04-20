@@ -23,6 +23,10 @@ Este proyecto expone una API sencilla para consultar, crear, actualizar y elimin
 - Estructura simple, ideal para prácticas y pruebas rápidas.
 - Compatible con clientes HTTP como Bruno y Postman.
 
+## 📹 Video de Demostración
+
+[Ver demostración de la API](https://youtu.be/nT0WESpqvXw)
+
 ## 🧰 Tecnologías utilizadas
 
 | Tecnología | Descripción |
